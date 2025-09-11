@@ -1,11 +1,11 @@
-PasteApp
+# PasteApp
 
 A simple paste management application built with React, Redux, and Tailwind CSS.
 It allows users to create, update, search, copy, and view text snippets (pastes) in a clean and minimal UI.
 
 ---
 
-✨ Features
+# ✨ Features
 
 📝 Create and edit pastes with a title and content.
 
@@ -23,7 +23,7 @@ It allows users to create, update, search, copy, and view text snippets (pastes)
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 React – UI library
 
@@ -37,7 +37,7 @@ Lucide React – Icons
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 🌐 Persist data with localStorage or backend (Firebase/Node.js).
 
